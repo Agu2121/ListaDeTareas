@@ -1,0 +1,16 @@
+h4 {
+    color: gray;
+    margin-bottom: 7px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border: 2px double black;
+    padding: 2px;
+}
+
+.about-container {
+    background-color: gold;
+    padding: 20px;
+}
